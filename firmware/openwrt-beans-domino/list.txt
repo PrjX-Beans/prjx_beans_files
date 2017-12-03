@@ -1,1 +1,1 @@
-1.1	eb75be26280b023a8cebef7161ebacd1	openwrt-beans-domino-1.1.bin	7602180
+1.1	e4a5ddabb567c1846b368ead9fd3ea0b	openwrt-beans-domino-1.1.bin	7602180
